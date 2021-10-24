@@ -1,0 +1,61 @@
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;
+    border:0;
+    font-size:100%;
+    font:inherit;vertical-align:baseline}
+    article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,
+    section{display:block}
+    ol,ul{list-style:none}
+    blockquote,
+    q{quotes:none}
+    blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}
+    table{border-collapse:collapse;border-spacing:0}
+    button,input[type=submit]
+    {cursor:pointer}a{color:currentColor}a,button,
+    li{outline-color:#fff}button,input,select,
+    textarea{outline:0;-webkit-appearance:none;-moz-appearance:none;
+        appearance:none;border:none;padding:0}input:-webkit-autofill,input:-webkit-autofill:
+        focus input:-webkit-autofill,input:-webkit-autofill:
+        hover,select:-webkit-autofill,select:-webkit-autofill:focus,
+        select:-webkit-autofill:hover,textarea:-webkit-autofill,textarea:-webkit-autofill:hover textarea:-webkit-autofill:
+        focus{-webkit-box-shadow:0 0 0 1000px #fff inset}
+        @font-face{font-family:Karla;src:url(../../fonts/subset-Karmilla-Regular.woff2) 
+            format("woff2"),url(../../fonts/subset-Karmilla-Regular.woff)
+            format("woff");font-weight:400;font-style:normal;font-display:swap}
+            @font-face{font-family:Karla;src:url(../../fonts/subset-Karmilla-Bold.woff2) 
+                format("woff2"),url(../../fonts/subset-Karmilla-Bold.woff) 
+                format("woff");font-weight:700;font-style:normal;
+                font-display:swap}@font-face{font-family:'GT Sectra';
+                    src:url(../../fonts/subset-GTSectra-Bold.woff2) 
+                    format("woff2"),url(../../fonts/subset-GTSectra-Bold.woff)
+                     format("woff");font-weight:700;font-style:normal;font-display:swap}
+                     .anim-o{transition:opacity .6s linear .1s}
+                     .anim-o.out{opacity:0;transition:opacity}
+                     .anim-o.out.t{opacity:1}img.anim-js,
+                     video.anim-js{transition:opacity .3s linear}
+                     img.anim-js.out,video.anim-js.out{opacity:0;transition:opacity}
+                     img.anim-js.out.t,video.anim-js.out.t{opacity:1}
+                     @-webkit-keyframes scroll-arrow-1{0%{transform:translate3d(0,0,0)}
+                     20%{transform:translate3d(0,115%,0)}20.001%{transform:translate3d
+                        (0,-115%,0)}100%,40%{transform:translate3d(0,0,0)}}
+                        @keyframes scroll-arrow-1{0%{transform:translate3d(0,0,0)}
+                        20%{transform:translate3d(0,115%,0)}20.001%{transform:translate3d(0,-115%,0)}
+                        100%,40%{transform:translate3d(0,0,0)}}@-webkit-keyframes scroll-arrow-2
+                        {0%,100%,40.001%{transform:translate3d(0,-115%,0)}
+                        20%{transform:translate3d(0,0,0)}40%
+                        {transform:translate3d(0,115%,0)}}@keyframes scroll-arrow-2
+                        {0%,100%,40.001%{transform:translate3d(0,-115%,0)}
+                        20%{transform:translate3d(0,0,0)}40%{transform:translate3d(0,115%,0)}}
+                        @-webkit-keyframes 
+                        bounce{0%,20%,53%,80%,to{-webkit-animation-timing-function:cubic-bezier (.215,.61,.355,1)
+                            ;animation-timing-function:cubic-bezier(.215,.61,.355,1);
+                            transform:translate3d(0,0,0)}40%,43%
+                            {-webkit-animation-timing-function:cubic-bezier(.755,.05,.855,.06);
+                                animation-timing-function:cubic-bezier(.755,.05,.855,.06);
+                                transform:translate3d(0,-15px,0)}70%
+                                {-webkit-animation-timing-function:cubic-bezier(.755,.05,.855,.06);
+                                    animation-timing-function:cubic-bezier(.755,.05,.855,.06);
+                                    transform:translate3d(0,-7px,0)}90%{transform:translate3d(0,-2px,0)}}
+                                    *{-webkit-tap-highlight-color:transparent;
+                                        -webkit-tap-highlight-color:transparent}
+                                        ::-moz-selection{color:#fff;background:rgba(67,89,112,.9)};
+                                        
